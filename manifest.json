@@ -1,0 +1,20 @@
+{
+  "name": "Parte Diario Pro",
+  "short_name": "Parte Diario",
+  "description": "Control de jornada, servicios, vehículos y arqueo diario",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#1e293b",
+  "theme_color": "#1e293b",
+  "lang": "es",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
